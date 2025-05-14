@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ChefMate**, a mobile app for sharing recipes  
 - 🌱 I’m actively learning **Spring Boot, REST APIs, Docker, Redis, and Kafka/RabbitMQ**  
-- 👩‍💻 I develop projects using **Kotlin**, **Java**, **Spring Boot**, **HTML**, **CSS**, **Python**, and **C**  
+- 👩‍💻 I develop projects using **Kotlin**, **Java**, **Spring Boot**
 - 📝 I enjoy documenting my projects while exploring backend technologies  
 
 ---
