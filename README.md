@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Zeynep</h1>
-<h3 align="center">A passionate Android Developer & Computer Engineering Student</h3>
+<h3 align="center">A passionate Android & Mobile Developer & Computer Engineering Student</h3>
+
 
 
 
