@@ -30,19 +30,3 @@
 
 ---
 
-<h3 align="left">My GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeynepSeyrek&show_icons=true&locale=en" alt="ZeynepSeyrek" />
-</p>
-
-<h3 align="left">My GitHub Contributions:</h3>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeynepSeyrek" alt="ZeynepSeyrek" />
-</p>
-
-<h3 align="left">My GitHub Trophies:</h3>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZeynepSeyrek" alt="ZeynepSeyrek" />
-</p>
-
----
