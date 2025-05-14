@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Android Developer & Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZeynepSeyrek&label=Profile%20Views&color=0e75b6&style=flat" alt="ZeynepSeyrek" />
+  <img src="https://komarev.com/ghpvc/?username=zeynepakbs&label=Profile%20Views&color=0e75b6&style=flat" alt="zeynepakbs" />
 </p>
 
 ---
@@ -30,3 +30,14 @@
 
 ---
 
+<h3 align="left">My GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeynepakbs&show_icons=true&locale=en" alt="zeynepakbs" />
+</p>
+
+<h3 align="left">My GitHub Contributions:</h3>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepakbs" alt="zeynepakbs" />
+</p>
+
+<h3 align="left">My GitHub Trophies:
